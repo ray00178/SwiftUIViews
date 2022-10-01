@@ -27,7 +27,7 @@ struct DatePickerZ: View {
       DatePicker("Choose Date", selection: $date, displayedComponents: .date)
         .labelsHidden()
         //.datePickerStyle(.wheel)
-        .datePickerStyle(.graphical)
+        //.datePickerStyle(.graphical)
         //.accentColor(.green)
         .tint(Color.green)
         .background(
