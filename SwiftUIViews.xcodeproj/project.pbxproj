@@ -18,6 +18,9 @@
 		7131E68228DF43A8005CFF17 /* ListZ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7131E68128DF43A8005CFF17 /* ListZ.swift */; };
 		7131E68428DF4701005CFF17 /* NavigationViewZ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7131E68328DF4701005CFF17 /* NavigationViewZ.swift */; };
 		7131E68A28E86ECF005CFF17 /* ScrollViewZ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7131E68928E86ECF005CFF17 /* ScrollViewZ.swift */; };
+		7131E68E28EF177C005CFF17 /* SecureFieldZ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7131E68D28EF177C005CFF17 /* SecureFieldZ.swift */; };
+		71B8F64728FBD38100F74E65 /* SliderZ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71B8F64628FBD38100F74E65 /* SliderZ.swift */; };
+		71B8F64928FBD54D00F74E65 /* TabViewZ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71B8F64828FBD54D00F74E65 /* TabViewZ.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +36,9 @@
 		7131E68128DF43A8005CFF17 /* ListZ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListZ.swift; sourceTree = "<group>"; };
 		7131E68328DF4701005CFF17 /* NavigationViewZ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewZ.swift; sourceTree = "<group>"; };
 		7131E68928E86ECF005CFF17 /* ScrollViewZ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewZ.swift; sourceTree = "<group>"; };
+		7131E68D28EF177C005CFF17 /* SecureFieldZ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecureFieldZ.swift; sourceTree = "<group>"; };
+		71B8F64628FBD38100F74E65 /* SliderZ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderZ.swift; sourceTree = "<group>"; };
+		71B8F64828FBD54D00F74E65 /* TabViewZ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewZ.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +80,9 @@
 				7131E68128DF43A8005CFF17 /* ListZ.swift */,
 				7131E68328DF4701005CFF17 /* NavigationViewZ.swift */,
 				7131E68928E86ECF005CFF17 /* ScrollViewZ.swift */,
+				7131E68D28EF177C005CFF17 /* SecureFieldZ.swift */,
+				71B8F64628FBD38100F74E65 /* SliderZ.swift */,
+				71B8F64828FBD54D00F74E65 /* TabViewZ.swift */,
 				7131E66F28DA0121005CFF17 /* Assets.xcassets */,
 				7131E67128DA0121005CFF17 /* Preview Content */,
 			);
@@ -159,9 +168,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				7131E67A28DA014E005CFF17 /* ControlGroupZ.swift in Sources */,
+				71B8F64728FBD38100F74E65 /* SliderZ.swift in Sources */,
 				7131E66E28DA0120005CFF17 /* ContentView.swift in Sources */,
 				7131E67C28DA027E005CFF17 /* ButtonZ.swift in Sources */,
 				7131E66C28DA0120005CFF17 /* SwiftUIViewsApp.swift in Sources */,
+				71B8F64928FBD54D00F74E65 /* TabViewZ.swift in Sources */,
+				7131E68E28EF177C005CFF17 /* SecureFieldZ.swift in Sources */,
 				7131E68028DF4140005CFF17 /* FormZ.swift in Sources */,
 				7131E68428DF4701005CFF17 /* NavigationViewZ.swift in Sources */,
 				7131E68228DF43A8005CFF17 /* ListZ.swift in Sources */,

@@ -91,9 +91,11 @@ struct HorizontalView: View {
           dismiss()
         } label: {
           Image(systemName: "arrow.backward")
-            .tint(.orange)
+            .tint(.white)
         }
       }
     }
+    .toolbarBackground(Color.orange, for: .navigationBar)
+    .toolbarBackground(.visible, for: .navigationBar)
   }
 }
